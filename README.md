@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Time4Wonder
 - 👀 I’m interested in learning coding.
-- 🌱 I’m currently learning C# (Unity).
+- 🌱 banabenb
 - 💞️ I’m not looking to collaborate on ...
 - 📫 How to reach me? Discord: t4w#2111
 
